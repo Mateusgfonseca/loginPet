@@ -1,4 +1,4 @@
-![poster](.github/cover.png)
+
 
 ## 🤘 Sobre
 
